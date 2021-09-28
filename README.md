@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Michael 😉, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer having worked at Google, Walmart and now AWS. Currently, I'm working as a prototyping engineer, with a focus on IOT and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
+Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer having worked at Google, Walmart and now AWS. Currently, I'm working as a prototyping engineer, with a focus on IOT and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -25,7 +25,8 @@ Hi, I'm Michael 😉, a programmer 👨🏻‍💻 from San Diego, CA. I'm a sof
 - 📫 Please email via MichaelHuyTran@gmail.com to reach me.
 
 <br/>
-![Michael Walker's github stats](https://github-readme-stats.vercel.app/api?username=mike-tran&show_icons=true&hide_border=true)
+
+[![Michael Walker's github stats](https://github-readme-stats.vercel.app/api?username=mike-tran&show_icons=true&hide_border=true)]
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
