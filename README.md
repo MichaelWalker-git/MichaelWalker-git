@@ -1,13 +1,13 @@
-### Welcome to LøvelyBuggies's Hut 👋
+### Welcome to Michael Tran's Git 👋
 
 
-<a href="https://www.linkedin.com/in/michaeltran1991/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg" />
-</a>
-<a href="michaelhuytran@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-michaeltran1991-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeltran1991)](https://www.linkedin.com/in/michaeltran1991) 
 
+[![Gmail Badge](https://img.shields.io/badge/-michaelhuytran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelhuytran@gmail.com)](mailto:michaelhuytran@gmail.com) 
+
+[![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCQhzxWVeDpotwK6pZQo9DxQ)](https://www.youtube.com/channel/UCQhzxWVeDpotwK6pZQo9DxQ)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mike-Tran" alt="Mike-Tran" /> </p>
 <br />
 <br />
 
