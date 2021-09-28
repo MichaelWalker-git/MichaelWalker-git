@@ -9,11 +9,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mike-Tran" alt="Mike-Tran" /> </p>
 <br />
-<br />
+
+
 
 Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer having worked at Google, Walmart and now AWS. Currently, I'm working as a prototyping engineer, with a focus on IOT and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mike-tran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 **Current Status **
 
