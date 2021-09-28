@@ -22,9 +22,9 @@ Hi, I'm Michael 😉, a programmer 👨🏻‍💻 from San Diego, CA. I'm a sof
 - 🤔 My research interests are with Machine Learning, Deep Reinforcement Learning, etc.
 - 💼 I’m pursuing a Masters in Computer Science.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via michaelhuytran@gmail.com to reach me.
-<!-- - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
- -->
+- 📫 Please email via MichaelHuyTran@gmail.com to reach me.
+
+<br/>
 ![Michael Walker's github stats](https://github-readme-stats.vercel.app/api?username=mike-tran&show_icons=true&hide_border=true)
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
@@ -32,7 +32,7 @@ Hi, I'm Michael 😉, a programmer 👨🏻‍💻 from San Diego, CA. I'm a sof
 <p align="center">
 
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
@@ -44,17 +44,3 @@ Hi, I'm Michael 😉, a programmer 👨🏻‍💻 from San Diego, CA. I'm a sof
 </p>
 
 
-<!--
-**Mike-Tran/Mike-Tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
