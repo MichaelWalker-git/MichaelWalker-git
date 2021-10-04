@@ -15,10 +15,6 @@
 Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer having worked at Google, Walmart and now AWS. Currently, I'm working as a prototyping engineer, with a focus on IOT and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
 
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/michaelhuytran/15min" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mike-tran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
