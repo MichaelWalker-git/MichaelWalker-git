@@ -1,4 +1,4 @@
-### Welcome to Michael Tran's Git 👋
+### Welcome to Michael Walker's Git 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-michaeltran1991-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeltran1991)](https://www.linkedin.com/in/michaeltran1991) 
