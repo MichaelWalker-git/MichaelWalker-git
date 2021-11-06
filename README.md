@@ -1,9 +1,9 @@
 ### Welcome to Michael Walker's Git 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-michaeltran1991-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeltran1991)](https://www.linkedin.com/in/michaeltran1991) 
+[![Linkedin Badge](https://img.shields.io/badge/-michael-walker714-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-walker714)](https://www.linkedin.com/in/michael-walker714) 
 
-[![Gmail Badge](https://img.shields.io/badge/-michaelhuytran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelhuytran@gmail.com)](mailto:michaelhuytran@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-michaelwalker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelhuytran@gmail.com)](mailto:michaelhuytran@gmail.com) 
 
 [![Youtube Channel](https://img.shields.io/badge/Youtube-Mike--Tran-red)](https://www.youtube.com/channel/UCQhzxWVeDpotwK6pZQo9DxQ)
 
