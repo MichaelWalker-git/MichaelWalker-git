@@ -29,7 +29,7 @@ Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software
 
 <br/>
 
-[![Michael Walker's github stats](https://github-readme-stats.vercel.app/api?username=mike-tran&show_icons=true&hide_border=true)]
+[![Michael Walker's github stats](https://github-readme-stats.vercel.app/api?username=MichaelWalker-git&show_icons=true&hide_border=true)]
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
