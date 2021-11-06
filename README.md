@@ -15,7 +15,7 @@ Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mike-tran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelWalker-git&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **Current Status **
