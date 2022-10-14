@@ -3,9 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-michaelwalker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-walker714)](https://www.linkedin.com/in/michael-walker714) 
 
-[![Gmail Badge](https://img.shields.io/badge/-michaelhuytran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelhuytran@gmail.com)](mailto:michaelhuytran@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-michaelhuywalker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelhuywalker@gmail.com)](mailto:michaelhuywalker@gmail.com) 
 
-[![Youtube Channel](https://img.shields.io/badge/Youtube-Mike--Tran-red)](https://www.youtube.com/channel/UCQhzxWVeDpotwK6pZQo9DxQ)
+[![Youtube Channel](https://img.shields.io/badge/Youtube-Mike--Walker-red)](https://www.youtube.com/channel/UCQhzxWVeDpotwK6pZQo9DxQ)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MichaelWalker-git" alt="Mike-Tran" /> </p>
 <br />
