@@ -22,7 +22,6 @@ Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software
 
 - 🌱 I’m currently learning more about SageMaker Studio and Sagemaker Pipelines.
 - 🤔 My research interests are with Machine Learning, Deep Reinforcement Learning, etc.
-- 💼 I’m pursuing a Masters in Computer Science.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via MichaelHuyWalker@gmail.com to reach me.
 
