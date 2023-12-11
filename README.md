@@ -11,7 +11,7 @@
 <br />
 
 
-Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer who has worked at places like Google, Walmart and most recently, AWS. Currently, I'm working as a prototyping engineer, with a focus on IOT and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
+Hi, I'm Michael, a programmer 👨🏻‍💻 from San Diego, CA. I'm a software engineer who has worked at places like Google, Walmart and most recently, AWS. Currently, I'm working as a prototyping engineer, with a focus on GenAI and Machine Learning development. Outside of work, I really enjoy free diving and rock climbing.
 
 
 
